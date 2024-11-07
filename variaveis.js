@@ -12,4 +12,6 @@ console.log("Operações aritiméticas")
 
 console.log (10 + 2 * 40)
 
+
+
 //JS é case sensitive
